@@ -1,0 +1,96 @@
+[
+  {
+    "id": "32a89c2d-891d-449f-8f6b-946c9c3fc701",
+    "data": [
+      {
+        "text": "finde",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a5a1ebdb-e8ac-4b91-85b7-4184feea9534",
+    "data": [
+      {
+        "text": "sábado",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4c631282-3054-4078-bd11-616be58dc9c8",
+    "data": [
+      {
+        "text": "este sabado",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f6c21734-99c2-49a2-a199-da792a5fc6b5",
+    "data": [
+      {
+        "text": "este domingo",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0b4c5d68-850b-4be4-8c8d-d94d0f65ea61",
+    "data": [
+      {
+        "text": "fin de semana",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "03565f17-3c4a-4276-8f77-e8d1c9344e92",
+    "data": [
+      {
+        "text": "trabajan los ",
+        "userDefined": false
+      },
+      {
+        "text": "sábados",
+        "meta": "@nolaboral",
+        "alias": "nolaboral",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

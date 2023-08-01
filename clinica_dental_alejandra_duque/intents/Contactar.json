@@ -1,0 +1,37 @@
+{
+  "id": "00804942-a3ad-4c39-aa42-8c2a9e301b62",
+  "name": "Contactar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Para contactar con las oficinas de la Clínica dental Poblenou, envíe un e-mail a la dirección clinica.dental@poblenou.es. Responderemos tan pronto como sea posible. ¿Alguna cosa más?",
+            "En este momento solo disponemos de un e-mail de contacto. Si necesita contactarnos, envíe un e-mail a la dirección clinica.dental@poblenou.es y responderemos tan pronto como sea posible. ¿Alguna cosa más?",
+            "El contacto oficial de esta oficina es el correo electrónico clinica.dental@poblenou.es. Aquí podrá solicitar cualquier tipo de información ¿Algo más?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

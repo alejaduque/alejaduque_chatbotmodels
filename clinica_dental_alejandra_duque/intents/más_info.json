@@ -1,0 +1,35 @@
+{
+  "id": "c099c9c8-aab7-4355-886a-20e807dda5d4",
+  "name": "más_info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Clínica dental Poblenou ofrece servicios de cuidado dental y ortopedía en la población de Pineda de mar. Aquí podras solicitar información de contacto, ubicación, horarios de atención, e incluso agendar tu cita. ¿Qué te gustaría hacer?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

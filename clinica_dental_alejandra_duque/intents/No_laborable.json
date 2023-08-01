@@ -1,0 +1,51 @@
+{
+  "id": "bfbea319-9d2d-487b-b898-0fa281fd2125",
+  "name": "No_laborable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6414e10e-81ea-4005-b88c-9f2cfce841f1",
+          "name": "nolaboral",
+          "required": false,
+          "dataType": "@nolaboral",
+          "value": "$nolaboral",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Lo siento, nuestra oficina esta cerrada durante el fin de semana. Nuestro horario de atención es de Lunes a Viernes desde las 8 a.m. hasta las 7 p.m. ¿Te gustaría pedir hora?",
+            "Lo siento, nuestra oficina esta cerrada durante el fin de semana. Nuestro horario de atención es de Lunes a Viernes desde las 8 a.m. hasta las 7 p.m. ¿Qué día te gustaría venir?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

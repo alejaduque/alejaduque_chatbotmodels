@@ -1,0 +1,37 @@
+{
+  "id": "15778bd4-84ff-475c-8713-35375e9a433d",
+  "name": "despedida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Perfecto! Esperamos haberte ayudado. Si necesitas más información, puedes contactar a clinica.dental@poblenou.es, uno de nuestros agentes te responderá. ¡Que tengas un buen día!",
+            "Esperamos haberte ayudado. Para más información puedes contactar a nuestro e-mail clinica.dental@poblenou.es. ¡Muchas gracias!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

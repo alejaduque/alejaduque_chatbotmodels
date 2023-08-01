@@ -1,0 +1,50 @@
+{
+  "id": "b4256ac0-1bc6-459b-80f9-211d6c37526f",
+  "name": "servicios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7ad4a836-12f3-49fb-a4df-ff8337246437",
+          "name": "servcio",
+          "required": false,
+          "dataType": "@servcio",
+          "value": "$servcio",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Ofrecemos servicios de cuidado dental y ortopedía durante nuestro horario laboral. ¿Necesitas pedir hora o contactar con la oficina?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "d80b340d-5045-4364-9ecf-1dbb392f6aa5",
+  "name": "ubicación",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "La Clínica dental Poblenou se encuentra en la Calle Dr. Fleming 9 (local 4) en Pineda de mar. ¿Necesita agendar una cita, contactarnos o saber nuestros horarios de atención?",
+            "Estamos ubicados en la Calle Dr. Fleming 9 (local 4) en Pineda de mar ¿Necesita agendar una cita, contactarnos o saber nuestros horarios de atención?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

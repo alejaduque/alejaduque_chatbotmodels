@@ -1,0 +1,319 @@
+[
+  {
+    "id": "827b6f5d-2dea-4380-a093-6a07937b34a2",
+    "data": [
+      {
+        "text": "necesito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3ff87ad2-0dc8-450b-8e1f-650d81b398cc",
+    "data": [
+      {
+        "text": "sí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0068bec0-aaaf-48c0-a4ba-2ac0e30765ef",
+    "data": [
+      {
+        "text": "si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "310b92b5-44e3-45fc-bac5-446924b5cae9",
+    "data": [
+      {
+        "text": "necesito ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "275af4de-1981-4471-a955-d0d1e3d7bfc9",
+    "data": [
+      {
+        "text": "quiero ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "27b98e8c-b8c5-4bac-9d12-2ca322594e5b",
+    "data": [
+      {
+        "text": "cita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f3ef7eb5-d780-4a72-9a45-41a2d202d639",
+    "data": [
+      {
+        "text": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "60b0b951-dff0-479f-af83-bd5a7fdaf992",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cita para el ",
+        "userDefined": false
+      },
+      {
+        "text": "viernes",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "16.00h",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0875b1dd-eaf9-4171-b7a4-aa0ff8ed4725",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "d5d35cdb-c037-451b-a27e-f833baa386db",
+    "data": [
+      {
+        "text": "a las ",
+        "userDefined": false
+      },
+      {
+        "text": "21.00",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e8c57ceb-f773-4352-9e9c-73c900f2bb86",
+    "data": [
+      {
+        "text": "quiero ir el ",
+        "userDefined": false
+      },
+      {
+        "text": "día viernes",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "e7abbaf4-367a-4910-bac9-5e1774b76074",
+    "data": [
+      {
+        "text": "pedir hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8faf5d76-12c7-4492-8b1f-7fb8dae9d08a",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " a las ",
+        "userDefined": false
+      },
+      {
+        "text": "16.00",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "697ca28a-1e77-4917-b2ab-7089fc7a42e0",
+    "data": [
+      {
+        "text": "quiero ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " cita para el ",
+        "userDefined": false
+      },
+      {
+        "text": "miércoles",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cced162b-494d-4c0e-b273-70cecf24f1cf",
+    "data": [
+      {
+        "text": "quiero pedir ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "a las 3pm",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2651034e-58c9-4c9b-83e4-d4c00ab67701",
+    "data": [
+      {
+        "text": "quiero pedir ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "eb5b2f8a-c23e-470b-882e-89a23cc3b2b6",
+    "data": [
+      {
+        "text": "quiero ver a ",
+        "userDefined": false
+      },
+      {
+        "text": "la dentista",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

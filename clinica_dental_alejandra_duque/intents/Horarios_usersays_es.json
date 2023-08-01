@@ -1,0 +1,191 @@
+[
+  {
+    "id": "b0b24c92-47d2-4838-a60e-d4354a7112d9",
+    "data": [
+      {
+        "text": "horarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "1c09123c-a672-43f3-9ff3-c5157ce6c630",
+    "data": [
+      {
+        "text": "horarios de atención",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "99271a68-50ce-4e47-8169-b5f5480b0985",
+    "data": [
+      {
+        "text": "que horarios tienen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "a7f853b3-7706-4a71-9e2a-9f1422084143",
+    "data": [
+      {
+        "text": "estarán ",
+        "userDefined": false
+      },
+      {
+        "text": "hoy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3424e7d0-59eb-421d-a4da-d37116fedca8",
+    "data": [
+      {
+        "text": "necesito ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "92fb76af-e359-4a6c-8b71-fb0b0187d8a2",
+    "data": [
+      {
+        "text": "cuando abren",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "910ace18-9470-40e4-9402-67fa0446c2d2",
+    "data": [
+      {
+        "text": "necesito hacer ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " visita",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "0dac05f9-7a18-41ed-8fa1-a80c0b6a6ec6",
+    "data": [
+      {
+        "text": "cuando puedo ir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4e927472-4392-4577-8832-5fc57a941e91",
+    "data": [
+      {
+        "text": "que dia estan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "afccb9e5-8f48-4542-9e2f-bebedc42001e",
+    "data": [
+      {
+        "text": "a que ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " trabajan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c922729f-5f0d-49ce-8298-24b6941665e0",
+    "data": [
+      {
+        "text": "cuales son sus horarios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "7be71468-625a-4abb-ad06-62a068771c6e",
+    "data": [
+      {
+        "text": "información",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f4954d1e-e149-4d76-8a8c-71f0a4b84f3a",
+    "data": [
+      {
+        "text": "qué hacen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

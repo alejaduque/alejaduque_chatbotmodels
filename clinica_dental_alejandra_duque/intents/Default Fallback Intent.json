@@ -1,0 +1,36 @@
+{
+  "id": "9e81ba89-1308-4698-b37a-6fb708583aab",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Ups, no te he entendido. Este asistente virtual está destinado a pedir información y agendar tus citas. ¿Qué te gustaría hacer?",
+            "Lo siento, no te he entendido. Recuerda que con este asistente virtual puedes solicitar información de contacto, ubicación, horarios de atención, e incluso agendar tu cita. ¿Deseas solicitar información o agendar una cita?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

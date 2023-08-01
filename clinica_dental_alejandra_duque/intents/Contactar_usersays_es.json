@@ -1,0 +1,239 @@
+[
+  {
+    "id": "9987bbfd-c6f2-4fc7-ab2e-a8026207e279",
+    "data": [
+      {
+        "text": "ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "03e1c500-655c-48cb-ac70-b58f2a4bcfdd",
+    "data": [
+      {
+        "text": "celular",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "8d0cfb52-6da3-4107-8c6f-90ba627f8579",
+    "data": [
+      {
+        "text": "numero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "3fba2c81-4f5d-4bcd-8ca1-dcd24eda1ff8",
+    "data": [
+      {
+        "text": "telefono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5791b64f-54ae-4a04-856f-dffd5c4fc877",
+    "data": [
+      {
+        "text": "atención",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c94237e0-105d-4783-9688-7348fd71b489",
+    "data": [
+      {
+        "text": "número de teléfono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "56aef49a-eabf-4ce3-976a-3565ebe5767c",
+    "data": [
+      {
+        "text": "llamar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "198b3b15-65cf-46c1-85d2-64c881f65091",
+    "data": [
+      {
+        "text": "necesito hablar con",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "2c5dcb50-2773-483d-8918-8056b09ff9df",
+    "data": [
+      {
+        "text": "quiero hablar con ",
+        "userDefined": false
+      },
+      {
+        "text": "una",
+        "userDefined": false
+      },
+      {
+        "text": " persona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "45787895-a5dc-457d-977a-123249e2e063",
+    "data": [
+      {
+        "text": "llamar a ",
+        "userDefined": false
+      },
+      {
+        "text": "la oficina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "18d35a03-2a38-4071-8579-904e31a90926",
+    "data": [
+      {
+        "text": "e-mail",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "21bee9e1-cc06-49c0-9d91-1663e4ec81ea",
+    "data": [
+      {
+        "text": "número",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "13eaf905-8239-4e7c-a8f3-b4cf42ea3613",
+    "data": [
+      {
+        "text": "email",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "6cc9ee82-321e-45e0-aab2-5dab8ae8e3d6",
+    "data": [
+      {
+        "text": "dónde puedo contactar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "217c4802-2fd6-4cab-9b5a-82b872700dd5",
+    "data": [
+      {
+        "text": "donde puedo contactar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "39fc19a3-3494-4b0d-ba04-0541c3979ee1",
+    "data": [
+      {
+        "text": "contacto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "18c85723-91f6-4f3e-ad96-e1425f594129",
+    "data": [
+      {
+        "text": "me gustaría hablar con ",
+        "userDefined": false
+      },
+      {
+        "text": "la oficina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

@@ -1,0 +1,249 @@
+[
+  {
+    "id": "6a32120c-7dcb-46a1-907e-f850eb3b05bc",
+    "data": [
+      {
+        "text": "¿dónde queda la clínica?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "38d2882e-53c1-4efa-8d0e-f425dfeb87d4",
+    "data": [
+      {
+        "text": "¿dónde están ubicados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "aa2583b5-abf6-479a-b98f-e6e5bc55d070",
+    "data": [
+      {
+        "text": "dónde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c634b905-e57c-4d1c-a306-c854bcf224ff",
+    "data": [
+      {
+        "text": "donde",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "66efaa37-fff7-4648-a029-01c832518a08",
+    "data": [
+      {
+        "text": "está",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "b34a0262-fde7-4547-967e-dce5f3e991c3",
+    "data": [
+      {
+        "text": "dirección",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "ba295b75-42ff-4113-b2c6-56d3a53e1e0d",
+    "data": [
+      {
+        "text": "zona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "c4061988-b8d6-4d71-98a8-d132f3c094e3",
+    "data": [
+      {
+        "text": "local",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "bc629ed8-d13d-420a-aa83-88d9d33a045f",
+    "data": [
+      {
+        "text": "calle",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "dbcbe00a-e23e-4487-9874-1f9d5d789513",
+    "data": [
+      {
+        "text": "ubicacion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "5d828ade-d5ff-4ea9-b76c-597832e895b9",
+    "data": [
+      {
+        "text": "donde se encuentra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "9f2e9cc4-42ee-46ae-a9d5-3aa117a23f4c",
+    "data": [
+      {
+        "text": "dónde se encuentra",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "cfdbe014-5bb3-435a-8e0b-1af699d97cfe",
+    "data": [
+      {
+        "text": "como llego",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f4702678-30af-4704-b4c2-c67d8fd2837f",
+    "data": [
+      {
+        "text": "dónde queda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "f8f50be5-1be1-42b1-97fc-1ff9399461db",
+    "data": [
+      {
+        "text": "donde estan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "592010f9-edd6-4b94-a76d-9e9df3fde6d7",
+    "data": [
+      {
+        "text": "como llegar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "00e737dd-5b4f-4229-800d-5b3424266614",
+    "data": [
+      {
+        "text": "ubicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4054507b-7630-4f9a-966d-0fb6fbb19c1e",
+    "data": [
+      {
+        "text": "ubi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  },
+  {
+    "id": "4fa878fe-1af5-405e-bc18-2ad2423a1cdc",
+    "data": [
+      {
+        "text": "donde queda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "es",
+    "updated": 0
+  }
+]

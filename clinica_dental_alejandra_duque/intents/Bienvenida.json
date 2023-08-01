@@ -1,0 +1,41 @@
+{
+  "id": "5d8d6e18-aac6-43f8-b837-cbf1a8bf27c2",
+  "name": "Bienvenida",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Hola! Aquí el asistente de la Clínica dental Poblenou ¿En qué puedo ayudarte?",
+            "¡Hey! Bienvenido/a a la Clínica dental Poblenou ¿En qué podemos ayudarte hoy?",
+            "¡Buenos días! Somos la Clínica dental Poblenou. ¿Qué necesitas hoy?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

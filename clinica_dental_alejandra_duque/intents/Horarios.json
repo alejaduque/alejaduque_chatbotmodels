@@ -1,0 +1,35 @@
+{
+  "id": "7889f39c-84b6-40f5-963d-da28e4251545",
+  "name": "Horarios",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "Trabajamos de Lunes a Viernes, desde las 8 a.m. hasta las 7 p.m. (no incluyendo los días festivos). No atendendemos sin cita previa. ¿Te gustaría pedir hora, contactar con la oficina o solicitar más información?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

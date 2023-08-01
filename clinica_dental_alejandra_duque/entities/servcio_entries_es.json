@@ -1,0 +1,35 @@
+[
+  {
+    "value": "profesional",
+    "synonyms": [
+      "dentista",
+      "dentist",
+      "dntist",
+      "ortodoncia",
+      "especialista",
+      "profesional",
+      "doctor",
+      "doctora",
+      "encargado"
+    ]
+  },
+  {
+    "value": "servicio",
+    "synonyms": [
+      "caries",
+      "carie",
+      "limpieza",
+      "ortopedia",
+      "servicio",
+      "limpiezas",
+      "dientes",
+      "torcido",
+      "duele",
+      "dolor",
+      "ayuda",
+      "revisión",
+      "revision",
+      "revisar"
+    ]
+  }
+]

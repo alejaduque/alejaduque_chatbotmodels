@@ -1,0 +1,98 @@
+{
+  "id": "ca0c2b82-03c1-4777-a387-34c3055b55aa",
+  "name": "PedirHora",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "19d739f7-7a78-42c4-9987-113609ac6ada",
+          "name": "time",
+          "required": true,
+          "dataType": "@sys.time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¡Bien! Trabajamos de Lunes a Viernes, desde las 8 a.m. hasta las 7 p.m. ¿A qué hora te gustaría venir?"
+            },
+            {
+              "lang": "es",
+              "value": "Nuestos horarios de atención son de Lunes a Viernes, desde las 8 a.m. hasta las 7 p.m. Por favor, indica la fecha y la hora en que te gustaría visitarnos!"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2995c5d2-0d35-4180-bacd-a81b41a35b93",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Para qué día?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fc050a60-586d-489b-8502-948cd73cc219",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "Por favor, indica la fecha y hora en la que te gustaría venir."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "es",
+          "speech": [
+            "¡Perfecto! Tu cita está agendada para el $date a las $time ¿Alguna cosa más?",
+            "¡Perfecto! Tu cita está agendada para el $date a las $time ¿Necesitas más información?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
